@@ -3,7 +3,7 @@ Interactive games in Processing
 
 ### Games
 * [X] Puzzle by [Dennys Regalado](https://www.openprocessing.org/user/1337)
-* [] Frogger
+* [ ] Frogger
 
 ### Contributors
 * Oumaima Lamaakel

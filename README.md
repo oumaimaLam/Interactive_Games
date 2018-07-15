@@ -1,5 +1,5 @@
 # Interactive__Games
-Interactive games in Processing
+Interactive games in Processing. Codes are mostly borrowed from opensource ressources and modified for extra features. 
 
 ### Games
 * [X] Puzzle by [Dennys Regalado](https://www.openprocessing.org/user/1337)
